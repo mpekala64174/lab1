@@ -1,0 +1,70 @@
+//zadanie 1 i 2
+    /*    
+        int wiek;
+        String imie;
+        Scanner in = new Scanner(System.in);
+        
+        System.out.println("Podaj imie ");
+        imie=in.nextLine();//obiekt klasy scanner
+        
+        System.out.println("Podaj wiek ");
+        wiek=in.nextInt();
+    */ 
+      
+        //zadanie 3
+    /*
+        Random rand = new Random();
+        
+        int a=rand.nextInt(11); //0-10
+        int b=rand.nextInt(11);
+        
+        System.out.println("Suma= "+a+" + "+b+" = "+(a+b));
+        System.out.println("Roznica= "+a+" - "+b+" = "+(a-b));
+        System.out.println("Iloczyn= "+a+" * "+b+" = "+(a*b));
+        
+        if(b!=0 ){ //
+            System.out.println("Iloraz= "+a+" / "+b+" = "+(a/b));
+        }
+        else{
+            System.out.println("Nie dziel przez zero");
+        }
+    */
+    /*
+        switch(warunek){
+            case 0:
+                //instrukcja
+            break;
+            
+            default:
+                //instr
+            break;
+        }
+    */
+        //zadanie 4 5 6
+    /*    
+        Random rand = new Random();
+        
+        int a=rand.nextInt(123);
+        System.out.println(a);
+
+        if(a%2==0){
+            System.out.println("Parzysta");
+        }
+        else{
+             System.out.println("Nieparzysta");
+        }
+        
+        if(a%3==0 && a%5==0){
+            System.out.println("podzielna przez 3 i 5");
+        }
+        else{
+            System.out.println("Niepodzielna przez 3 i 5");
+        }
+        
+      System.out.println("Potega liczby "+a+" do 3 potegi "+Math.pow(a,3));
+    */
+     
+      //zadanie 7 i 8 do domu
+     }
+     
+}
